@@ -103,8 +103,6 @@ edgeFilters.forEach((filter) =>
   })
 );
 startNetwork({ nodes: nodesView, edges: edgesView });
-//startNetwork({ nodes: nodesView, edges: edgesView });
-//});
 
 var x, i, j, l, ll, selElmnt, a, b, c;
 /* Look for any elements with the class "custom-select": */
