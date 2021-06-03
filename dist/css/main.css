@@ -168,7 +168,7 @@
 /* Style items (options): */
 .select-items {
   position: absolute;
-  background-color: #da6a14b9;
+  background-color: #da6a14;
   top: 100%;
   left: 0;
   right: 0;
@@ -182,4 +182,5 @@
 
 .select-items div:hover, .same-as-selected {
   background-color: rgba(0, 0, 0, 0.1);
+  
 } 
