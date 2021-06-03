@@ -1,5 +1,5 @@
 {"data": [
-    {"id":"001","url":".","topic":"Core","subtopic":"Demographics","type":"Profile","name":"MyPatient","status":"active","date_started":"2019-10-01","date_published":"2020-01-01","date_reviewed":"1900-01-00","maturity":"1","legal":"Legal","version":"0.1.0"},
-    {"id":"002","url":".","topic":"Core","subtopic":"Demographics","type":"Extension","name":"Nationality","status":"active","date_started":"2019-10-01","date_published":"2020-01-01","date_reviewed":"1900-01-00","maturity":"1","legal":"Legal","version":"0.1.0"},
-    {"id":"084","url":".","topic":"Prescription","subtopic":"Prescription - Common","type":"Profile","name":"MyPrescription","status":"","date_started":"1900-01-00","date_published":"1900-01-00","date_reviewed":"1900-01-00","maturity":"","legal":"","version":""}
+    {"id":"001","url":".","topic":"Core","subtopic":"Demographics","type":"Profile","name":"MyPatient","status":"active","date_started":"2019-10-01","date_published":"2020-01-01","date_reviewed":"1900-01-00","maturity":"1","legal":"Legal","version":"0.1.0", "link" : "medication"},
+    {"id":"002","url":".","topic":"Core","subtopic":"Demographics","type":"Extension","name":"Nationality","status":"active","date_started":"2019-10-01","date_published":"2020-01-01","date_reviewed":"1900-01-00","maturity":"1","legal":"Legal","version":"0.1.0", "link" : "medication"},
+    {"id":"084","url":".","topic":"Prescription","subtopic":"Prescription - Common","type":"Profile","name":"MyPrescription","status":"","date_started":"1900-01-00","date_published":"1900-01-00","date_reviewed":"1900-01-00","maturity":"","legal":"","version":"", "link" : "medication"}
  ]}
